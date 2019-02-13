@@ -1,1 +1,0 @@
-- Game for Smart India Hackathon
